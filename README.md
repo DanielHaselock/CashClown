@@ -40,3 +40,9 @@ Made for Global Game Jam 2024!
 [Itch](https://kindaokev.itch.io/cash-clown)
 
 <h2>Images:</h2>
+
+![VPSLjQ](https://github.com/user-attachments/assets/ae737e6b-22aa-492c-ba36-a0a004e10773)
+
+![hY1VRk](https://github.com/user-attachments/assets/695db30e-4355-4188-b127-cedff904de93)
+
+![ahEK1X](https://github.com/user-attachments/assets/74fcbe2c-2929-4568-bcb3-150e831bd70c)
