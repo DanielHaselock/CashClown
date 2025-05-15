@@ -1,6 +1,6 @@
 <h2>Game title: Cash Clown </h2>
 Made in 2 days with 2 programmers and 1 artist and 1 musician For the Global Game Jam 2024 at Concordia<br>
-This game is a simple 2D platformer across mini levels where the player has a simple objective
+This game is a simple 2D platformer across mini levels where the player has a simple objective in Unity
 
 
 <h2>Description:<br></h2>
